@@ -18,10 +18,10 @@
       <h1 class="name">山田 花子</h1>
       <div class="container">
         <div class="profile-img">
-          <img src="img/profile_img.jpg" width="1520" height="864" alt="山田花子のプロフィール画像">
+          <img src="img/profile_img.jpg" width="1520" height="864" alt="profiles picture">
         </div>
+        <h2 class="profile">プロフィール</h2>
       </div>
     </div>
-
   </body>
 </html>

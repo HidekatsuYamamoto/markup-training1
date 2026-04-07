@@ -1,1 +1,23 @@
 @charset "UTF-8";
+body {
+    font-family: "Noto Sans", sans-serif;
+    line-height: 1.6;
+}
+
+.wrapper {
+    width: 1080px;
+    margin: 0 auto;
+    padding-top: 64px;
+}
+
+.name {
+    font-size: 32px;
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+}
+
+.container {
+    width: 760px;
+    padding: 64px 0;
+    margin: 0 auto;
+}

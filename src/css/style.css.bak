@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body {
+    font-family: "Noto Sans", sans-serif;
+    line-height: 1.6;
+}
+
+.wrapper {
+    width: 1080px;
+    margin: 0 auto;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.name {
+    font-size: 32px;
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+}
+
+.container {
+    width: 760px;
+    padding: 64px 0px;
+    margin: 0 auto;
+}
+
+.profile-img {
+    padding-bottom: 40px;/* padding-top: 40px; */
+}
+.profile {
+    width: 760px;
+    height: 55px;
+    background: #B5D569;    /* padding-top: 40px; */
+    font-size: 24px;
+    font-weight: bold;
+    /* 垂直方向の中央揃え */
+    display: flex;
+    align-items: center;
+}
