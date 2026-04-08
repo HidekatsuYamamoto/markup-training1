@@ -21,3 +21,28 @@ body {
     padding: 64px 0;
     margin: 0 auto;
 }
+
+.section-wrap {
+    margin-top: 40px;
+}
+
+.section-title {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #B5D569;
+    margin-bottom: 16px;
+    /* 上右下左 */
+    padding: 8px 0 8px 8px;
+}
+
+.section-wrap p {
+    margin-top: 24px;
+}
+
+.footer {
+    padding: 16px 0 16px 0;
+    text-align: center;
+}
+.footer-copy {
+    font-size: 12px;
+}
